@@ -1,0 +1,9 @@
+# Ambiente virtual
+.venv/
+
+# Base de dados
+data/creditcard.csv
+
+# Arquivos Python
+__pycache__/
+*.pyc
